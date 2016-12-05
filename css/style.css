@@ -1,5 +1,5 @@
 .heading {
-	background: #d3d3d3;
+	background: #F5F5F5;
 	margin-bottom: 10px;
 }
 
@@ -8,7 +8,7 @@
 }
 
 .left {
-	border-bottom: 1px solid grey;
+	border-bottom: 1px solid #d3d3d3;
 }
 
 .left p {
